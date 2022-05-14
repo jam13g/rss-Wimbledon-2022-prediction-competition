@@ -7,6 +7,7 @@ A big thank you to Smartodds (https://www.smartodds.co.uk/) for sponsoring the c
 1. The goal of the competition is to make probabilistic predictions of the outcome of matches from Wimbledon 2022
 2. Entrants are free to use any data they wish, _provided it is publicly available_. This includes data scraped from public websites
 3. The exact entry list is not known until the eve of the tournament. Instead, predictions are to be made for _every possible_ singles match between the top 100 female and male tennis players in the world (as of 14th May 2022).  
+4. Predictions should be made as probabilities for each player to win the match. 
 5. Submissions must be made before 10am on Monday 27th June (the first day of the tournament)
 6. Code and data (or links to the data if the data sets are large) used to generate the predictions must be included in a submission so that the judging panel can reproduce the results
 7. Participants are free to enter either as individuals or as teams

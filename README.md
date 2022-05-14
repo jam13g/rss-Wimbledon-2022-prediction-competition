@@ -1,5 +1,7 @@
 # Welcome to the RSS Wimbledon 2022 Prediction Competition!
 
+A big thank you to Smartodds (https://www.smartodds.co.uk/) for sponsoring the competition 
+
 ## Rules
 
 1. The goal of the competition is to make probabilistic predictions of the outcome of matches from Wimbledon 2022
@@ -27,7 +29,6 @@ where  `I(.)` is the indicator function and e.g. `p_player1_win` is the entrant'
 
 * All winners will be invited to present their work at the 2022 RSS conference with reasonable expenses paid 
 * All winners will receive an appropriately tacky trophy!
-* A big thankyou to Smartodds (https://www.smartodds.co.uk/) for sponsoring the competition 
 
 ## Making a Submission
 

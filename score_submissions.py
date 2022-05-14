@@ -13,12 +13,11 @@ def score_submissions(path_to_submissions_file: str, path_to_match_results_file:
     match_results = pd.read_csv(path_to_match_results_file)
     mirrored_match_results = pd.DataFrame(
         {
-            'team1_name': match_results['team2_name'],
-            'team2_name': match_results['team1_name'],
-            'Group': match_results['Group'],
-            'team1_win': match_results['team2_win'],
-            'draw': match_results['draw'],
-            'team2_win': match_results['team1_win']
+            'player1_name': match_results['player2_name'],
+            'player2_name': match_results['player1_name'],
+            'Gender': match_results['Gender'],
+            'player1_win': match_results['player2_win'],
+            'player2_win': match_results['player1_win']
         }
     )
     submissions = pd.read_excel(path_to_submissions_file, sheet_name=None, engine='openpyxl')
@@ -30,24 +29,21 @@ def score_submissions(path_to_submissions_file: str, path_to_match_results_file:
             continue
         df = pd.concat(
             [
-                match_results.merge(submission, on=['team1_name', 'team2_name', 'Group']),
-                mirrored_match_results.merge(submission, on=['team1_name', 'team2_name', 'Group'])
+                match_results.merge(submission, on=['player1_name', 'player2_name', 'Gender']),
+                mirrored_match_results.merge(submission, on=['player1_name', 'player2_name', 'Gender'])
             ]
         )
         assert len(df) == len(match_results)
         # Handle probabilities of 0
-        df.loc[df['p_team1_win'] == 0, 'p_team1_win'] = 1e-12
-        df.loc[df['p_team2_win'] == 0, 'p_team2_win'] = 1e-12
-        df.loc[(df['p_draw'] == 0) & (df['Group'] != 'Knockout'), 'p_draw'] = 1e-12
+        df.loc[df['p_player1_win'] == 0, 'p_player1_win'] = 1e-12
+        df.loc[df['p_player2_win'] == 0, 'p_player2_win'] = 1e-12
+       
         # Normalise probabilities
-        df.loc[df['Group'] == 'Knockout', 'p_draw'] = 0
-        df['p_team1_win'] = df['p_team1_win'] / df[['p_team1_win', 'p_team2_win', 'p_draw']].sum(axis=1)
-        df['p_team2_win'] = df['p_team2_win'] / df[['p_team1_win', 'p_team2_win', 'p_draw']].sum(axis=1)
-        df['p_draw'] = df['p_draw'] / df[['p_team1_win', 'p_team2_win', 'p_draw']].sum(axis=1)
-        df_group = df[df['Group'] != 'Knockout']
-        df_ko = df[df['Group'] == 'Knockout']
-        score = -(np.log(df_group['p_team1_win']) * df_group['team1_win'] + np.log(df_group['p_draw']) * df_group['draw'] + np.log(df_group['p_team2_win']) * df_group['team2_win']).sum()
-        score += -(np.log(df_ko['p_team1_win']) * df_ko['team1_win'] + np.log(df_ko['p_team2_win']) * df_ko['team2_win']).sum()
+        df['p_player1_win'] = df['p_player1_win'] / df[['p_player1_win', 'p_player2_win']].sum(axis=1)
+        df['p_player2_win'] = df['p_player2_win'] / df[['p_player1_win', 'p_player2_win']].sum(axis=1)
+        
+        score = -(np.log(df['p_player1_win']) * df['player1_win'] + np.log(df['p_player2_win']) * df['player2_win']).sum()
+        
         scores.append({'submission': anonymise_name(name), 'score': score})
 
     scores = pd.DataFrame(scores).sort_values(['score'])

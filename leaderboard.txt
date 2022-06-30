@@ -10,7 +10,7 @@ CMN	26.3249579644924
 AM	29.6558682164654
 JS	30.8853202747544
 
-
+Based on 43 of the 80 matches in results.csv (the other matches will have had players outside the top 100)
 
 Based on just Men's results from first 3 days (using https://www.atptour.com/en/scores/current/wimbledon/540/results)
 I am yet to find an easy source for copying the women's results into a csv!

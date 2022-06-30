@@ -1,0 +1,15 @@
+submission	score
+MB	20.3021586368898
+YWE	20.9735338694272
+GA	23.9983524743318
+AY	24.1682877967351
+THBP	24.181716445556
+TH	25.1277457887292
+CMN	26.3249579644924
+AM	29.6558682164654
+JS	30.8853202747544
+
+
+Based on just Men's results from first 3 days (using https://www.atptour.com/en/scores/current/wimbledon/540/results)
+I am yet to find an easy source for copying the women's results into a csv!
+Please also feel free to check for any errors in results.csv

@@ -1,20 +1,4 @@
 player1_name,player2_name,Gender,player1_win,player2_win
-novak djokovic,thanasi kokkinakis,M,1,0
-ugo humbert,casper ruud,M,1,0
-carlos alcaraz,tallon griekspoor,M,1,0
-cameron norrie,jaume munar,M,1,0
-jannik sinner,mikael ymer,M,1,0
-tim van rijthoven,reilly opelka,M,1,0
-john isner,andy murray,M,1,0
-nikoloz basilashvili,quentin halys,M,1,0
-frances tiafoe,maximilian marterer,M,1,0
-miomir kecmanovic,alejandro tabilo,M,1,0
-tommy paul,adrian mannarino,M,1,0
-david goffin,sebastian baez,M,1,0
-oscar otte,christian harrison,M,1,0
-alexander bublik,dusan lajovic,M,1,0
-steve johnson,ryan peniston,M,1,0
-jiri vesely,alejandro davidovich fokina,M,1,0
 novak djokovic,soonwoo kwon,M,1,0
 rafael nadal,francisco cerundolo,M,1,0
 casper ruud,albert ramos-vinolas,M,1,0
@@ -79,3 +63,51 @@ jordan thompson,roberto carballes baena,M,1,0
 tim van rijthoven,federico delbonis,M,1,0
 jiri vesely,federico coria,M,1,0
 mikael ymer,daniel altmaier,M,1,0
+novak djokovic,thanasi kokkinakis,M,1,0
+rafael nadal,ricardas berankis,M,1,0
+ugo humbert,casper ruud,M,1,0
+stefanos tsitsipas,jordan thompson,M,1,0
+carlos alcaraz,tallon griekspoor,M,1,0
+cameron norrie,jaume munar,M,1,0
+jannik sinner,mikael ymer,M,1,0
+taylor fritz,alastair gray,M,1,0
+liam broady,diego schwartzman,M,1,0
+brandon nakashima,denis shapovalov,M,1,0
+tim van rijthoven,reilly opelka,M,1,0
+daniel elahi galan,roberto bautista agut,M,1,0
+alex de minaur,jack draper,M,1,0
+john isner,andy murray,M,1,0
+botic van de zandschulp,emil ruusuvuori,M,1,0
+nikoloz basilashvili,quentin halys,M,1,0
+frances tiafoe,maximilian marterer,M,1,0
+miomir kecmanovic,alejandro tabilo,M,1,0
+nick kyrgios,filip krajinovic,M,1,0
+lorenzo sonego,hugo gaston,M,1,0
+jenson brooksby,benjamin bonzi,M,1,0
+tommy paul,adrian mannarino,M,1,0
+david goffin,sebastian baez,M,1,0
+oscar otte,christian harrison,M,1,0
+alexander bublik,dusan lajovic,M,1,0
+cristian garin,hugo grenier,M,1,0
+richard gasquet,mackenzie mcdonald,M,1,0
+steve johnson,ryan peniston,M,1,0
+jason kubler,dennis novak,M,1,0
+alex molcan,marcos giron,M,1,0
+jack sock,maxime cressy,M,1,0
+jiri vesely,alejandro davidovich fokina,M,1,0
+novak djokovic,miomir kecmanovic,M,1,0
+rafael nadal,lorenzo sonego,M,1,0
+nick kyrgios,stefanos tsitsipas,M,1,0
+carlos alcaraz,oscar otte,M,1,0
+cameron norrie,steve johnson,M,1,0
+jannik sinner,john isner,M,1,0
+taylor fritz,alex molcan,M,1,0
+alex de minaur,liam broady,M,1,0
+botic van de zandschulp,richard gasquet,M,1,0
+tim van rijthoven,nikoloz basilashvili,M,1,0
+frances tiafoe,alexander bublik,M,1,0
+cristian garin,jenson brooksby,M,1,0
+tommy paul,jiri vesely,M,1,0
+david goffin,ugo humbert,M,1,0
+jason kubler,jack sock,M,1,0
+brandon nakashima,daniel elahi galan,M,1,0

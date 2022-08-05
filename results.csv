@@ -1,113 +1,253 @@
-player1_name,player2_name,Gender,player1_win,player2_win
-novak djokovic,soonwoo kwon,M,1,0
-rafael nadal,francisco cerundolo,M,1,0
-casper ruud,albert ramos-vinolas,M,1,0
-stefanos tsitsipas,alexander ritschard,M,1,0
-carlos alcaraz,jan-lennard struff,M,1,0
-maxime cressy,felix auger-aliassime,M,1,0
-alejandro davidovich fokina,hubert hurkacz,M,1,0
-cameron norrie,pablo andujar,M,1,0
-jannik sinner,stan wawrinka,M,1,0
-taylor fritz,lorenzo musetti,M,1,0
-diego schwartzman,stefan kozlov,M,1,0
-denis shapovalov,arthur rinderknech,M,1,0
-reilly opelka,carlos taberner,M,1,0
-dusan lajovic,pablo carreno busta,M,1,0
-roberto bautista agut,attila balazs,M,1,0
-steve johnson,grigor dimitrov,M,1,0
-alex de minaur,hugo dellien,M,1,0
-john isner,enzo couacaud,M,1,0
-botic van de zandschulp,feliciano lopez,M,1,0
-nikoloz basilashvili,lukas rosol,M,1,0
-frances tiafoe,andrea vavassori,M,1,0
-marcos giron,holger rune,M,1,0
-miomir kecmanovic,john millman,M,1,0
-filip krajinovic,jiri lehecka,M,1,0
-lorenzo sonego,denis kudla,M,1,0
-jason kubler,daniel evans,M,1,0
-jenson brooksby,mikhail kukushkin,M,1,0
-tommy paul,fernando verdasco,M,1,0
-sebastian baez,taro daniel,M,1,0
-oscar otte,peter gojowczyk,M,1,0
-ricardas berankis,sam querrey,M,1,0
-benjamin bonzi,zdenek kolar,M,1,0
-liam broady,lukas klein,M,1,0
-alexander bublik,marton fucsovics,M,1,0
-jack draper,zizou bergs,M,1,0
-daniel elahi galan,dominik koepfer,M,1,0
-cristian garin,elias ymer,M,1,0
-richard gasquet,joao sousa,M,1,0
-hugo gaston,alexei popyrin,M,1,0
-david goffin,radu albot,M,1,0
-alastair gray,chun-hsin tseng,M,1,0
-hugo grenier,marc-andrea huesler,M,1,0
-tallon griekspoor,fabio fognini,M,1,0
-quentin halys,benoit paire,M,1,0
-christian harrison,jay clarke,M,1,0
-ugo humbert,tomas martin etcheverry,M,1,0
-thanasi kokkinakis,kamil majchrzak,M,1,0
-nick kyrgios,paul jubb,M,1,0
-adrian mannarino,max purcell,M,1,0
-maximilian marterer,aljaz bedene,M,1,0
-mackenzie mcdonald,nuno borges,M,1,0
-alex molcan,pedro martinez,M,1,0
-jaume munar,thiago monteiro,M,1,0
-andy murray,james duckworth,M,1,0
-brandon nakashima,nicola kuhn,M,1,0
-dennis novak,facundo bagnis,M,1,0
-ryan peniston,henri laaksonen,M,1,0
-emil ruusuvuori,yoshihito nishioka,M,1,0
-jack sock,bernabe zapata miralles,M,1,0
-alejandro tabilo,laslo djere,M,1,0
-jordan thompson,roberto carballes baena,M,1,0
-tim van rijthoven,federico delbonis,M,1,0
-jiri vesely,federico coria,M,1,0
-mikael ymer,daniel altmaier,M,1,0
-novak djokovic,thanasi kokkinakis,M,1,0
-rafael nadal,ricardas berankis,M,1,0
-ugo humbert,casper ruud,M,1,0
-stefanos tsitsipas,jordan thompson,M,1,0
-carlos alcaraz,tallon griekspoor,M,1,0
-cameron norrie,jaume munar,M,1,0
-jannik sinner,mikael ymer,M,1,0
-taylor fritz,alastair gray,M,1,0
-liam broady,diego schwartzman,M,1,0
-brandon nakashima,denis shapovalov,M,1,0
-tim van rijthoven,reilly opelka,M,1,0
-daniel elahi galan,roberto bautista agut,M,1,0
-alex de minaur,jack draper,M,1,0
-john isner,andy murray,M,1,0
-botic van de zandschulp,emil ruusuvuori,M,1,0
-nikoloz basilashvili,quentin halys,M,1,0
-frances tiafoe,maximilian marterer,M,1,0
-miomir kecmanovic,alejandro tabilo,M,1,0
-nick kyrgios,filip krajinovic,M,1,0
-lorenzo sonego,hugo gaston,M,1,0
-jenson brooksby,benjamin bonzi,M,1,0
-tommy paul,adrian mannarino,M,1,0
-david goffin,sebastian baez,M,1,0
-oscar otte,christian harrison,M,1,0
-alexander bublik,dusan lajovic,M,1,0
-cristian garin,hugo grenier,M,1,0
-richard gasquet,mackenzie mcdonald,M,1,0
-steve johnson,ryan peniston,M,1,0
-jason kubler,dennis novak,M,1,0
-alex molcan,marcos giron,M,1,0
-jack sock,maxime cressy,M,1,0
-jiri vesely,alejandro davidovich fokina,M,1,0
-novak djokovic,miomir kecmanovic,M,1,0
-rafael nadal,lorenzo sonego,M,1,0
-nick kyrgios,stefanos tsitsipas,M,1,0
-carlos alcaraz,oscar otte,M,1,0
-cameron norrie,steve johnson,M,1,0
-jannik sinner,john isner,M,1,0
-taylor fritz,alex molcan,M,1,0
-alex de minaur,liam broady,M,1,0
-botic van de zandschulp,richard gasquet,M,1,0
-tim van rijthoven,nikoloz basilashvili,M,1,0
-frances tiafoe,alexander bublik,M,1,0
-cristian garin,jenson brooksby,M,1,0
-tommy paul,jiri vesely,M,1,0
-david goffin,ugo humbert,M,1,0
-jason kubler,jack sock,M,1,0
-brandon nakashima,daniel elahi galan,M,1,0
+"player1_name","player2_name","Gender","player1_win","player2_win"
+"nick kyrgios","stefanos tsitsipas","M",1,0
+"ugo humbert","casper ruud","M",1,0
+"jannik sinner","carlos alcaraz","M",1,0
+"maxime cressy","felix auger-aliassime","M",1,0
+"alejandro davidovich fokina","hubert hurkacz","M",1,0
+"novak djokovic","cameron norrie","M",1,0
+"novak djokovic","jannik sinner","M",1,0
+"rafael nadal","taylor fritz","M",1,0
+"Broady L.","diego schwartzman","M",1,0
+"brandon nakashima","denis shapovalov","M",1,0
+"Van Rijthoven T.","reilly opelka","M",1,0
+"dusan lajovic","pablo carreno busta","M",1,0
+"steve johnson","grigor dimitrov","M",1,0
+"jannik sinner","john isner","M",1,0
+"rafael nadal","botic van de zandschulp","M",1,0
+"Van Rijthoven T.","nikoloz basilashvili","M",1,0
+"cristian garin","alex de minaur","M",1,0
+"david goffin","frances tiafoe","M",1,0
+"marcos giron","holger rune","M",1,0
+"novak djokovic","miomir kecmanovic","M",1,0
+"nick kyrgios","filip krajinovic","M",1,0
+"cameron norrie","tommy paul","M",1,0
+"Kubler J.","daniel evans","M",1,0
+"cristian garin","jenson brooksby","M",1,0
+"david goffin","sebastian baez","M",1,0
+"carlos alcaraz","oscar otte","M",1,0
+"jiri vesely","alejandro davidovich fokina","M",1,0
+"frances tiafoe","alexander bublik","M",1,0
+"casper ruud","albert ramos-vinolas","M",1,0
+"novak djokovic","nick kyrgios","M",1,0
+"rafael nadal","francisco cerundolo","M",1,0
+"nick kyrgios","cristian garin","M",1,0
+"Sock J.","maxime cressy","M",1,0
+"jenson brooksby","benjamin bonzi","M",1,0
+"botic van de zandschulp","emil ruusuvuori","M",1,0
+"alex molcan","pedro martinez","M",1,0
+"taylor fritz","alex molcan","M",1,0
+"john isner","fabio fognini","M",1,0
+"carlos alcaraz","tallon griekspoor","M",1,0
+"rafael nadal","lorenzo sonego","M",1,0
+"richard gasquet","mackenzie mcdonald","M",1,0
+"nick kyrgios","brandon nakashima","M",1,0
+"alejandro tabilo","laslo djere","M",1,0
+"cameron norrie","david goffin","M",1,0
+"alexander bublik","marton fucsovics","M",1,0
+"richard gasquet","joao sousa","M",1,0
+"mikael ymer","daniel altmaier","M",1,0
+"denis shapovalov","arthur rinderknech","M",1,0
+"tallon griekspoor","fabio fognini","M",1,0
+"alexander bublik","dusan lajovic","M",1,0
+"alex molcan","marcos giron","M",1,0
+"lorenzo sonego","hugo gaston","M",1,0
+"jiri vesely","federico coria","M",1,0
+"tommy paul","jiri vesely","M",1,0
+"botic van de zandschulp","richard gasquet","M",1,0
+"taylor fritz","lorenzo musetti","M",1,0
+"cameron norrie","jaume munar","M",1,0
+"filip krajinovic","jiri lehecka","M",1,0
+"quentin halys","benoit paire","M",1,0
+"fabio fognini","james duckworth","M",1,0
+"lorenzo sonego","denis kudla","M",1,0
+"stefanos tsitsipas","jordan thompson","M",1,0
+"ugo humbert","tomas martin etcheverry","M",1,0
+"miomir kecmanovic","alejandro tabilo","M",1,0
+"novak djokovic","thanasi kokkinakis","M",1,0
+"alex de minaur","hugo dellien","M",1,0
+"novak djokovic","soonwoo kwon","M",1,0
+"nikoloz basilashvili","quentin halys","M",1,0
+"hugo gaston","Popyrin A.","M",1,0
+"Van Rijthoven T.","federico delbonis","M",1,0
+"miomir kecmanovic","Millman J.","M",1,0
+"tommy paul","adrian mannarino","M",1,0
+"jordan thompson","roberto carballes baena","M",1,0
+"jannik sinner","mikael ymer","M",1,0
+"jaume munar","Monteiro T.","M",1,0
+"Sock J.","Zapata Miralles B.","M",1,0
+"thanasi kokkinakis","kamil majchrzak","M",1,0
+"oscar otte","peter gojowczyk","M",1,0
+"cameron norrie","steve johnson","M",1,0
+"alex de minaur","Draper J.","M",1,0
+"Gray A.","Tseng C.H.","M",1,0
+"Peniston R.","henri laaksonen","M",1,0
+"reilly opelka","Taberner C.","M",1,0
+"taylor fritz","Kubler J.","M",1,0
+"cameron norrie","pablo andujar","M",1,0
+"emil ruusuvuori","yoshihito nishioka","M",1,0
+"Novak D.","facundo bagnis","M",1,0
+"Kubler J.","Sock J.","M",1,0
+"novak djokovic","Van Rijthoven T.","M",1,0
+"Grenier H.","Huesler M.A.","M",1,0
+"rafael nadal","Berankis R.","M",1,0
+"diego schwartzman","Kozlov S.","M",1,0
+"brandon nakashima","Galan D.E.","M",1,0
+"david goffin","ugo humbert","M",1,0
+"david goffin","Albot R.","M",1,0
+"tommy paul","Verdasco F.","M",1,0
+"Galan D.E.","dominik koepfer","M",1,0
+"sebastian baez","Daniel T.","M",1,0
+"benjamin bonzi","Kolar Z.","M",1,0
+"mackenzie mcdonald","Borges N.","M",1,0
+"alex de minaur","Broady L.","M",1,0
+"steve johnson","Peniston R.","M",1,0
+"cristian garin","Ymer E.","M",1,0
+"cristian garin","Grenier H.","M",1,0
+"Draper J.","Bergs Z.","M",1,0
+"Kubler J.","Novak D.","M",1,0
+"carlos alcaraz","jan-lennard struff","M",1,0
+"Harrison C.","Clarke J.","M",1,0
+"Berankis R.","Querrey S.","M",1,0
+"jenson brooksby","Kukushkin M.","M",1,0
+"frances tiafoe","Marterer M.","M",1,0
+"stefanos tsitsipas","Ritschard A.","M",1,0
+"Marterer M.","Bedene A.","M",1,0
+"john isner","Couacaud E.","M",1,0
+"adrian mannarino","Purcell M.","M",1,0
+"nick kyrgios","Jubb P.","M",1,0
+"botic van de zandschulp","Lopez F.","M",1,0
+"Broady L.","Klein L.","M",1,0
+"oscar otte","Harrison C.","M",1,0
+"frances tiafoe","Vavassori A.","M",1,0
+"brandon nakashima","Kuhn N.","M",1,0
+"jannik sinner","Wawrinka S.","M",1,0
+"nikoloz basilashvili","Rosol L.","M",1,0
+"taylor fritz","Gray A.","M",1,0
+"roberto bautista agut","Balazs A.","M",1,0
+"Chwalinska M.","katerina siniakova","W",1,0
+"alison riske","In-Albon Y.","W",1,0
+"Tsurenko L.","Burrage J.","W",1,0
+"anhelina kalinina","anna bondar","W",1,0
+"ons jabeur","Bjorklund M.","W",1,0
+"Kawa K.","Marino R.","W",1,0
+"elise mertens","camila osorio","W",1,0
+"caroline garcia","Miyazaki Y.","W",1,0
+"jule niemeier","xinyu wang","W",1,0
+"anett kontaveit","Pera B.","W",1,0
+"emma raducanu","alison van uytvanck","W",1,0
+"diane parry","kaia kanepi","W",1,0
+"kaja juvan","beatriz haddad maia","W",1,0
+"sorana cirstea","Krunic A.","W",1,0
+"Cocciaretto E.","martina trevisan","W",1,0
+"Hontama M.","clara tauson","W",1,0
+"marie bouzkova","danielle collins","W",1,0
+"dalma galfi","Inglis M.","W",1,0
+"ann li","lucia bronzetti","W",1,0
+"magda linette","Contreras Gomez F.","W",1,0
+"panna udvardy","tamara zidansek","W",1,0
+"angelique kerber","kristina mladenovic","W",1,0
+"irina-camelia begu","Gorgodze E.","W",1,0
+"maria sakkari","Hives Z.","W",1,0
+"Tomova V.","Saville D.","W",1,0
+"alizé cornet","yulia putintseva","W",1,0
+"Liu C.","nuria parrizas diaz","W",1,0
+"viktorija golubic","andrea petkovic","W",1,0
+"Harrison Ca.","arantxa rus","W",1,0
+"marta kostyuk","Swan K.","W",1,0
+"jelena ostapenko","oceane dodin","W",1,0
+"Wickmayer Y.","lin zhu","W",1,0
+"shuai zhang","misaki doi","W",1,0
+"Buzarnescu M.","Schunk N.","W",1,0
+"barbora krejcikova","maryna zanevska","W",1,0
+"Pattinama Kerkhove L.","Kartal S.","W",1,0
+"Davis L.","madison brengle","W",1,0
+"coco gauff","elena-gabriela ruse","W",1,0
+"qiang wang","belinda bencic","W",1,0
+"ajla tomljanovic","jil teichmann","W",1,0
+"iga swiatek","Fett J.","W",1,0
+"Maria T.","Sharma A.","W",1,0
+"paula badosa","Chirico L.","W",1,0
+"amanda anisimova","Yuan Y.","W",1,0
+"Flipkens K.","Fourlis J.","W",1,0
+"ana bogdan","dayana yastremska","W",1,0
+"Watson H.","Korpatsch T.","W",1,0
+"Bara I.","Paquet C.","W",1,0
+"petra kvitova","jasmine paolini","W",1,0
+"simona halep","karolina muchova","W",1,0
+"sara sorribes tormo","Mchale C.","W",1,0
+"magdalena frech","camila giorgi","W",1,0
+"elena rybakina","Vandeweghe C.","W",1,0
+"bianca andreescu","Bektas E.","W",1,0
+"anna karolina schmiedlova","rebecca peterson","W",1,0
+"Tan H.","Williams S.","W",1,0
+"qinwen zheng","sloane stephens","W",1,0
+"kristina kucova","Pigossi L.","W",1,0
+"Boulter K.","clara burel","W",1,0
+"petra martic","shelby rogers","W",1,0
+"karolina pliskova","tereza martincova","W",1,0
+"jessica pegula","Vekic D.","W",1,0
+"Dart H.","Masarova R.","W",1,0
+"greet minnen","garbiñe muguruza","W",1,0
+"Tsurenko L.","anhelina kalinina","W",1,0
+"shuai zhang","marta kostyuk","W",1,0
+"jule niemeier","anett kontaveit","W",1,0
+"Maria T.","sorana cirstea","W",1,0
+"jelena ostapenko","Wickmayer Y.","W",1,0
+"marie bouzkova","ann li","W",1,0
+"caroline garcia","emma raducanu","W",1,0
+"angelique kerber","magda linette","W",1,0
+"diane parry","Hontama M.","W",1,0
+"alison riske","Chwalinska M.","W",1,0
+"irina-camelia begu","Cocciaretto E.","W",1,0
+"maria sakkari","Tomova V.","W",1,0
+"ons jabeur","Kawa K.","W",1,0
+"kaja juvan","dalma galfi","W",1,0
+"alizé cornet","Liu C.","W",1,0
+"ajla tomljanovic","Harrison Ca.","W",1,0
+"petra kvitova","ana bogdan","W",1,0
+"paula badosa","Bara I.","W",1,0
+"qinwen zheng","greet minnen","W",1,0
+"elise mertens","panna udvardy","W",1,0
+"elena rybakina","bianca andreescu","W",1,0
+"Boulter K.","karolina pliskova","W",1,0
+"Watson H.","qiang wang","W",1,0
+"Tan H.","sara sorribes tormo","W",1,0
+"barbora krejcikova","viktorija golubic","W",1,0
+"jessica pegula","Dart H.","W",1,0
+"petra martic","kristina kucova","W",1,0
+"magdalena frech","anna karolina schmiedlova","W",1,0
+"iga swiatek","Pattinama Kerkhove L.","W",1,0
+"amanda anisimova","Davis L.","W",1,0
+"simona halep","Flipkens K.","W",1,0
+"coco gauff","Buzarnescu M.","W",1,0
+"jelena ostapenko","irina-camelia begu","W",1,0
+"jule niemeier","Tsurenko L.","W",1,0
+"Watson H.","kaja juvan","W",1,0
+"ons jabeur","diane parry","W",1,0
+"Maria T.","maria sakkari","W",1,0
+"elise mertens","angelique kerber","W",1,0
+"marie bouzkova","alison riske","W",1,0
+"caroline garcia","shuai zhang","W",1,0
+"ajla tomljanovic","barbora krejcikova","W",1,0
+"Tan H.","Boulter K.","W",1,0
+"amanda anisimova","coco gauff","W",1,0
+"simona halep","magdalena frech","W",1,0
+"elena rybakina","qinwen zheng","W",1,0
+"alizé cornet","iga swiatek","W",1,0
+"paula badosa","petra kvitova","W",1,0
+"petra martic","jessica pegula","W",1,0
+"marie bouzkova","caroline garcia","W",1,0
+"Maria T.","jelena ostapenko","W",1,0
+"jule niemeier","Watson H.","W",1,0
+"ons jabeur","elise mertens","W",1,0
+"elena rybakina","petra martic","W",1,0
+"ajla tomljanovic","alizé cornet","W",1,0
+"simona halep","paula badosa","W",1,0
+"amanda anisimova","Tan H.","W",1,0
+"Maria T.","jule niemeier","W",1,0
+"ons jabeur","marie bouzkova","W",1,0
+"elena rybakina","ajla tomljanovic","W",1,0
+"simona halep","amanda anisimova","W",1,0
+"ons jabeur","Maria T.","W",1,0
+"elena rybakina","simona halep","W",1,0
+"elena rybakina","ons jabeur","W",1,0

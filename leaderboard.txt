@@ -1,23 +1,17 @@
 submission	score
-YWE	31.7241463891849
-MB	31.7274263481813
-AY	33.4100676718166
-PMM	34.2253984958498
-THBP	34.3560537855645
-BP	34.4182113612724
-CMN	34.8041089590135
-TH	35.0850883923965
-GA	35.6463328945678
-GAJMP	37.5156230924736
-AM	42.1095955517988
-JS	51.4005540801365
+MB		71.84871161066563
+YWE		73.29749157630437
+BP		74.32486207518116
+THBP		75.36457691070741
+GA		76.65044176022073
+CMN		78.08923477289788
+PMM		78.35595437630391
+TH		78.57752951011855
+AY		80.54633848476259
+GAJMP		83.14107207693525
+AM		86.66629480957582
+JS		112.98722188365738
 
 
+Based on ~130 matches out out 252 in results.csv (2 walkovers in mens comp)
 
-Based on 63 of the 112 matches in results.csv (the other matches will have had players outside the top 100)
-Note: one walkover wouldn't have been included anyway as Daniel Elahi Galan was not in top 100.  
-
-
-Based on just Men's results from first week (using https://www.atptour.com/en/scores/current/wimbledon/540/results)
-I am yet to find an easy source for copying the women's results into a csv!
-Please also feel free to check for any errors in results.csv
